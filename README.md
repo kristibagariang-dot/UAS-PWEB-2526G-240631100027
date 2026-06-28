@@ -18,7 +18,7 @@ Aplikasi ini menggunakan database `db_kampus` dengan tabel utama:
 2. Pindahkan folder project ke direktori server lokal (`xampp/htdocs/`).
 3. Buka `phpMyAdmin`, buat database baru bernama `db_kampus`.
 4. Import file `database.sql` yang tersedia di dalam repositori ini ke dalam database baru tersebut.
-5. Jalankan web browser dan akses URL: `http://localhost/nama_folder_kamu/login.php`.
+5. Jalankan web browser dan akses URL: `http://localhost/uas_kristipem/login.php`.
 
 ### Pernyataan Penggunaan GenAI
 Proyek aplikasi web SIMAS ini dikembangkan dengan asistensi perangkat Kecerdasan Artifisial (GenAI) Gemini secara bertanggung jawab. AI dimanfaatkan sebagai alat bantu (co-pilot) untuk mengoptimasi struktur layout CSS Flexbox dan memvalidasi logika keamanan session PHP. Seluruh penulisan fungsi kustom, query database, dan pengujian alur program tetap ditinjau, dipelajari, dan diuji secara mandiri oleh mahasiswa untuk memastikan orisinalitas kode.
