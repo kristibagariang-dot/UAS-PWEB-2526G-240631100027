@@ -1,9 +1,9 @@
 # UAS Pemrograman Web - SIMAS
 
-# Identitas Mahasiswa
-Nama: Kristivera Sibagariang
-NIM: 24063110027
-Kelas: PWEB-2526G
+### Identitas Mahasiswa
+* **Nama:** Kristivera Sibagariang
+* **NIM:** 24063110027
+* **Kelas:** PWEB-2526G
 
 ### Deskripsi Aplikasi
 **SIMAS (Sistem Informasi Manajemen Akademik Siswa)** adalah aplikasi berbasis web dinamis yang dirancang untuk mengelola data registrasi mahasiswa. Aplikasi ini dibangun menggunakan PHP Native, basis data MySQL, dan framework Bootstrap 5 untuk tampilan antarmuka yang responsif.
